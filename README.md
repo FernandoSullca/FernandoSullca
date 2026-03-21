@@ -24,7 +24,7 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y aprender n
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ## 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FernandoSullca&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FernandoSullca&count_private=true&show_icons=true&theme=radical)
 
 ## 📫 Cómo contactarme
 - [LinkedIn](https://www.linkedin.com/in/willian-Fernando-Sullca)
