@@ -26,6 +26,8 @@ Desarrollador Full Stack apasionado por crear soluciones eficientes y aprender n
 ## 📊 Mis Estadísticas
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=FernandoSullca&count_private=true&show_icons=true&theme=radical)
 
+![Estadísticas de GitHub Secundarios](https://github-readme-stats.vercel.app/api?username=devFernandoS&count_private=true&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSullca&layout=compact&theme=radical)
 
 
